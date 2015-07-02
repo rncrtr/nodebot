@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rncrtr/nodebot.git"
+    "url": "git+https://github.com/rncrtr/serverbot.git"
   },
   "keywords": [
     "serverbot",
@@ -20,7 +20,7 @@
   "author": "Ryan Carter <me@rncrtr.in> (http://rncrtr.in)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rncrtr/nodebot/issues"
+    "url": "https://github.com/rncrtr/serverbot/issues"
   },
-  "homepage": "https://github.com/rncrtr/nodebot#readme"
+  "homepage": "https://github.com/rncrtr/serverbot#readme"
 }
