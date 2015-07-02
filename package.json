@@ -1,7 +1,7 @@
 {
-  "name": "nodebot",
+  "name": "serverbot",
   "version": "1.0.0",
-  "description": "Nodebot is a tiny (but friendly) node, connect, and static web server for your projects.",
+  "description": "Serverbot is a tiny (but friendly) node, connect, and static web server for your projects.",
   "main": "server.js",
   "scripts": {
     "test": "node server"

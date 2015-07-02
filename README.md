@@ -1,7 +1,7 @@
-nodebot
+serverbot
 =======
 
-Nodebot is a tiny (but friendly) node, connect, and static web server for your projects.
+Serverbot is a tiny (but friendly) node, connect, and static web server for your projects.
 
 __Requires node and npm to be installed.__
 
@@ -11,7 +11,7 @@ __Requires node and npm to be installed.__
   $ npm install connect serve-static
   ```
 
-2. Start nodebot in terminal (without the $):
+2. Start serverbot in terminal (without the $):
 
   ```
   $ node server
