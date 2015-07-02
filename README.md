@@ -1,3 +1,8 @@
+nodebot
+=======
+
+Nodebot is a tiny (but friendly) node, connect, and static web server for your projects.
+
 ###Requires node and npm to be installed.
 
 1. Install connect and serve-static in terminal (without the $):
